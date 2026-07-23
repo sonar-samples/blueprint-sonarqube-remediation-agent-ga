@@ -1,6 +1,6 @@
 # Get started with the SonarQube Remediation Agent
 
-> Last verified: July, 2026
+> Last updated: July, 2026
 
 ## TL;DR overview
 
