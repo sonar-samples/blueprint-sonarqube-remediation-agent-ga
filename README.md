@@ -1,8 +1,6 @@
 # Get started with the SonarQube Remediation Agent
 
-> Last updated: July, 2026
-
-> Results, commands, plan requirements, and entitlements may differ by release, project, organization, and configuration. Check the linked current product documentation before applying these instructions to a live environment.
+> Last updated: July, 2026. Results, commands, plan requirements, and entitlements may differ by release, project, organization, and configuration. Check the linked current product documentation before applying these instructions to a live environment.
 
 ## TL;DR overview
 
